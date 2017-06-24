@@ -1,2 +1,2 @@
 # kosmo
-Kustom Open Service Model.
+Kustom Open Service Model
