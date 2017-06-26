@@ -22,7 +22,7 @@ Usage instructions will be updated soon...
 
 
 ### Contributing
-Contributions are welcome. Please read the contribution guidelines first.
+Contributions are welcome. Please read the [contribution guidelines](/CONTRIBUTING.md) first.
 
 
 ### Credits
