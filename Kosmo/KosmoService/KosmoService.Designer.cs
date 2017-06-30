@@ -1,6 +1,6 @@
 ﻿namespace KosmoService
 {
-    partial class Service1
+    partial class KosmoService
     {
         /// <summary> 
         /// Required designer variable.
