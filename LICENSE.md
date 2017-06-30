@@ -1,6 +1,11 @@
-MIT License
+# kosmo > License
 
-Copyright (c) 2017 Kustom Automation Pty Ltd
+The [MIT License](https://opensource.org/licenses/MIT) applies to all contributions made to the "kustom-automation/kosmo" GitHub repository.
+In general the license lets your do anything you like with the code - use it, change it, sell it, relicense it.  However your need to recognise the contributors by maintaining copyright notices found in the source code.
+
+## The MIT License
+
+Copyright (c) 2017 Kustom Automation Pty Ltd & Contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
