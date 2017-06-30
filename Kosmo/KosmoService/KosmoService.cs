@@ -33,9 +33,11 @@ namespace KosmoService
         }
 
         /// <summary>
-        /// This function simulates service operations when the program has been launched as a console app for debugging.
+        /// This function simulates service operations when the program has been
+        /// launched as a console app for debugging.
         /// </summary>
-        /// <param name="args">Console application Main method parameters.</param>
+        /// <param name="args">Console application Main method parameters.
+        /// </param>
         internal void DebugStartupAndStop(string[] args)
         {
             this.OnStart(args);
