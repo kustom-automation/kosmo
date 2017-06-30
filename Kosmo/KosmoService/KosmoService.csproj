@@ -61,6 +61,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Images\KosmoIcon.ai" />
+    <None Include="ReleaseNotes.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\KosmoIconBoW.ico" />
