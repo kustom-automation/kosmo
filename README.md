@@ -22,7 +22,7 @@ Usage instructions will be updated soon...
 
 
 ### Contributing
-Contributions are welcome. Please read the [contribution guidelines](/CONTRIBUTING.md) first.
+Contributions are welcome. Please read our [Kosmo Contribution](/CONTRIBUTING.md) document first.
 
 
 ### Credits
@@ -31,3 +31,4 @@ Credits to come...
 
 ### License
 This project is licensed under the terms of the MIT license.
+Please read our [Kosmo License](/LICENSE.md) document.
