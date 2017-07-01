@@ -21,11 +21,19 @@ namespace Kosmo.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Help()
         {
-            ViewData["Message"] = "Your application description page.";
-
             return View();
+        }
+
+        public IActionResult KosmoGitHub()
+        {
+            return new RedirectResult("https://github.com/kustom-automation/kosmo/wiki");
+        }
+
+        public IActionResult Swagger()
+        {
+            return new RedirectResult("~/swagger");
         }
 
         public IActionResult Error()
