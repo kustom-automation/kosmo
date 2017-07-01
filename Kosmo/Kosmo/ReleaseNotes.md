@@ -1,5 +1,4 @@
 ﻿# kosmo ~ Release Notes
-## Windows Service Package
 
 ### Release 1.0.0 (30/06/2017)
 #### New
