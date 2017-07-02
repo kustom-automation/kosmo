@@ -4,13 +4,19 @@
 
 
 ### Description
-Kosmo is a service template that includes a self hosted MVC web dashboard and API.  It has been developed to provide a standard service model for miscellaneous processes running on a Windows OS.
+Kosmo is an open source supervisory model which includes:
 
-Key features include:
-* Run as a windows service.
-* Self hosted web services, IIS not required.
-* Service monitoring and control via web dashboard.
-* Data exchange via web API.
+#### Kosmo Web Service
+* Performs the core business layer processing.
+* Provides an API for service control and data exchange.
+* Provides a MVC dashboard for service status and control.
+
+#### Kosmo Service Portal
+* Aggregates multiple Kosmo Web Service status.
+* Provides remote Kosmo Web Service control.
+
+#### Kosmo Scheduler
+* Allows remote API calls to be queued as one off, scheduled or repeat events.
 
 
 ### Installation
