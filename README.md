@@ -1,5 +1,5 @@
 # kosmo
-### Kustom Open Service Model 
+### Kustom Open Supervisory Model 
 *by [Kustom Automation Pty Ltd](www.kustomautomation.com.au)*
 
 
