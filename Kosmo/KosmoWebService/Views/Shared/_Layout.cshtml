@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Kosmo Web Service</title>
+    <title>Kosmo > @ViewData["Title"]</title>
 
     <environment names="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -19,7 +19,7 @@
     @Html.Raw(JavaScriptSnippet.FullScript)
 </head>
 <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: darkslategrey">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -28,9 +28,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                    <img src="~/images/KosmoIconBoW.png" alt="Kosmo Web Service">
-                    <p class="nav navbar-text" style="color:white">Kosmo Web Service | Instance Name</p>
+
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Dashboard">
+                    <img src="~/images/KosmoIconBoW.png" width="45" height="45" class="d-inline-block align-top" alt="Kosmo Web Service">
+                    <p class="nav navbar-text" style="color:white">Web Service | Instance Name</p>
                 </a>
             </div>
             <div class="navbar-collapse collapse">
