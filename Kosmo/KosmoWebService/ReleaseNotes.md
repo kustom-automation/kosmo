@@ -5,4 +5,4 @@
 * Initial release of the Kosmo service.
 
 #### Operations
-* Using ASP.Net Framework.
+* Using ASP.Net Framework..
